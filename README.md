@@ -3,7 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Joao Victor França Rafael
+- Matricula: 885053
 
 ## Print da tela da página criad
+![image](https://github.com/user-attachments/assets/92428be1-406f-4e9a-94a3-af34fe34bd8e)
